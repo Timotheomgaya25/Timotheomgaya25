@@ -30,6 +30,40 @@ CONTACT BOT DEVELOPER
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+⚡)](https://git.io/typing-svg)
   [`CLICK HERE TO FORK`](https://github.com/Timotheomgaya25/Timnasa-Bugbot-Timnasa/fork)
+>updates+^>(Timnasa_md 
+## `Generate Pair Code For Session`
+
+[`👉+𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://fredietech.onrender.com/)
+    
+
+.[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://yesset-md-099be347ecc5.herokuapp.com/).
+
+   
+<img src="https://files.catbox.moe/1o3jfs.jpg" width="1000">
+ 
+    
+😎⚡ HEROKU BUILDPACKS 
+  
+  
+  ```bash
+heroku/nodejs
+```
+```bash
+https://github.com/Timotheomgaya25/heroku-buildpack-ffmpeg-latest
+
+ ````
+```bash
+https://github.com/Timotheomgaya25/heroku-buildpack-webp-binaries.git
+
+```
+*Add your Creds.json to 𝚃𝚒𝚖𝚗𝚊𝚜𝚊 file
+* Create a new app at [Heroku](https://dashboard.heroku.com/new-app)
+* Add Build packs
+* Connect your heroku with your github
+* Locate Tiger-Bugs
+* Now deploy.
+* Start the Worker
+* Enjoy the Bot.
 
 ## `Generate Pair Code For Session`
 
