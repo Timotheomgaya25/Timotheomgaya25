@@ -12,7 +12,7 @@
 
 CONTACT BOT DEVELOPER 
 - <a aria-label="Join our chats" href="https://wa.me/message/JPGLOZDIQGRPD1255784766591?text=Hi!! `TIMNASATECH` Sir, I need Your Help" target="_blank">
-    <img alt="tiktok" src="https://img.shields.io/badge/CREATOR%20Whatsappchat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"https://wa.me/message/JPGLOZDIQGRPD1 />
+    <img alt="tiktok" src="https://img.shields.io/badge/CREATOR%20Whatsappchat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU />
 
 ## ```Bot Support Group Chats```
 
