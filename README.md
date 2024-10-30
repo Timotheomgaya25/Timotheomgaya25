@@ -6,6 +6,21 @@
 
 <!--
 **Timotheomgaya25/Timotheomgaya25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝚃𝙸𝙼𝙽𝙰𝚂𝙰+𝙱𝚄𝙶𝙱𝙾𝚃+𝚆𝙰𝚂+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝚃𝙸𝙼𝙽𝙰𝚂𝙰+𝚖𝚍)](https://git.io/typing-svg)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=WHATSAPP+XBUGBOT+CRASH)](https://git.io/typing-svg)
+
+CONTACT BOT DEVELOPER 
+- <a aria-label="Join our chats" href="https://wa.me/message/JPGLOZDIQGRPD1255784766591?text=Hi!! `TIMNASATECH` Sir, I need Your Help" target="_blank">
+    <img alt="tiktok" src="https://img.shields.io/badge/CREATOR%20Whatsappchat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"https://wa.me/message/JPGLOZDIQGRPD1 />
+
+## ```Bot Support Group Chats```
+
+- [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU/I5xIShFtrk43tfaWEmppNH)
+- [`BOT WHATSAPP CHANNEL Channel`](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31/0029VaNPPwR30LKQk437x51Q)
+
 
 Here are some ideas to get you started:
 
