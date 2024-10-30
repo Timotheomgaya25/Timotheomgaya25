@@ -115,20 +115,20 @@ apt apt install libwebp
 apt apt install imagrmagick
 apt install bash
 git clone https://github.com/Timotheomgaya25/Ti𝚖𝚗𝚊𝚜𝚊-Bugbot-Radiation 
-cd TIMNASA-BUGBOT-RADIATION 
+cd TIMNASA-BUGBOT-𝗢𝗥𝗚 
 npm start
 ```
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+TERMUX ACTIVATION+⟱" alt="Typing SVG" /></a>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+TERMUX ⛮ alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝗧𝗜𝗠𝗡𝗔𝗦𝗔+𝗠𝗗 ⛮ alt="Typing SVG" /></a>
   
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝔭𝔬𝔴𝔢𝔯𝔡 𝔟𝔶 ᴀ𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗘𝗖𝗛 𝗗𝗘𝗧𝗘𝗦𝗧𝗘𝗗" alt="Typing SVG" /></a>
 
 </p># Hi there 👋
 
