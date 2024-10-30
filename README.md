@@ -24,9 +24,7 @@ CONTACT BOT DEVELOPER
 **Timotheomgaya25/Timotheomgaya25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ------
 
-
 #>=(☆☆+☆☆+☆☆☆)
-
 
 # Setup For Deployment ☊
 
