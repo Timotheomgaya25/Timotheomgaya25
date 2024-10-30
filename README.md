@@ -16,9 +16,8 @@ CONTACT BOT DEVELOPER
 
 ## ```Bot Support Group Chats```
 
-- [`BOT WHATSAPP GROUP`](
-😂😂😂)
-- [`BOT WHATSAPP CHANNEL Channel`](https://whatsapp.com/channel/)
+- [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU)
+- [`BOT WHATSAPP CHANNEL Channel`](https://whatsapp.com/channel/https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU)
 
 <!--
 **Timotheomgaya25/Timotheomgaya25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
