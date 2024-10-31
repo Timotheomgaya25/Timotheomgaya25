@@ -130,12 +130,12 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
  <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗘𝗖𝗛 𝗗𝗘𝗧𝗘𝗦𝗧𝗘𝗗" alt="Typing SVG" /></a>
 
-</Timnasap>create"Hi there 👋
+</Timnasap>"Hi there 👋
 
 ------
 <!--
 *write*Timotheomgaya25/Timotheomgaya25** is a ✨ _special_ ✨ repository because its `TIMNASA.MD` (this file) appears on your GitHub profile.
------->img src="https://files.catbox.moe/1o3jfs.jpg
+------
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
